@@ -1,0 +1,128 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+11.01.2015 - published cs_k1234_reedition (v 1.0)
+17.01.2015 -   updated cs_k1234_reedition (v 1.1) - /general fixes, changes/
+23.01.2015 -   updated cs_k1234_reedition (v 1.2) - /general fixes, changes/
+01.02.2015 -   updated cs_k1234_reedition (v 2.2) - /map look/
+14.02.2015 - published cs_k1234_reedition_unofficial (v 3.3) - /unofficial update/
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+
+
+
+
+
+Changelog details:
+
+
+----------------------------------------------------------------------------------
+Update 1.1
+- added more informations to ReadMe file, please check it and read carefully
+- added sunlight effect
+- added vertical plan of map
+- changed env_spark delay time from 7 to 20
+- changed some textures like "signs for rooms";"doors"
+- deleted 1/2 light from K4
+- door to K4 has problem with side of handle, appeared after fixes (fixed in 1.2)
+- fixed boxes positions in Server Room
+- fixed floor entity
+- fixed map texture look in K1
+- fixed size of number texture "5"
+- fixed size of window in server room
+- fixed size of window in the entrance to main hall
+- fixed vest number from 6 to 12
+- increased height of walls by 1 unit
+- increased light brightness in CT spawn from 170 to 200
+- increased light brightness in K4 from 90 to 135
+- increased light brightness in K1,K2,K3,Main hall from 90 to 170 + changed color to more warm
+- left doors as they are in width and height (look on doors in cs_militia as example :D)
+- moved button from K4 to room that is unable to access without Teleport or noclip  (ex.Blockmaker mod)
+- took off 1 unit holes with few things...
+- rebuilded doors
+----------------------------------------------------------------------------------
+Update 1.2
+- added 2x buttons in K4 and ? with ability to turn off/on light
+- added doors to Main Hall that can be only opened from the button inside Main hall (you can use hole on top of doors to throw grenade, 4* seconds delay opening)
+- changed door sounds to only Squeky when open
+- changed door texture, rotation
+- changed sign sizes
+- fixed light position in Server Room
+- fixed wall size next to unretextured doors
+- fixed hole near doors to K4
+- fixed hole near explode-letter to K4
+- fixed glass in front of doors to Main Hall (up - 1.2.1)
+- made new screenshots showing effects of updates 
+- resized certain walls to 22 units 
+----------------------------------------------------------------------------------
+Update 2.2(Outlook patch)
+- added hideout in K1
+- added covers for windows
+- added columns to Main Hall;CT Spawn
+- added "case" for lights and paintings
+- added carpets 
+- added hideout in K1
+- added PC's to K1,K2,Server Room,K3,K4
+- added passive door to CT starting point
+- added way to K1 through vent (use E to open DOORS with button! :P)
+- added weapon MP5 to the map
+- added light to secret room (somewhere near CT spawn tp,noclip only)
+- changed button opening Main Hall doors position
+- changed light color in VENT from dark blue to bright blue
+- changed damage taking from blocking doors to K1,K2,K3,K4 to 0 
+- changed chairs func_pushable to func_wall
+- fixed light lookout
+- fixed PC's unvisible textures
+- fixed trash texture in K2
+- fixed hole in doors to K1
+- fixed sign size - down 2 units width and height
+- increased light brightness in GENERATOR ROOM to 200
+- increased light brightness in MAIN HALL to 240
+- increased light brightness in VENT from 140 to 160
+- increased light brightness in K1,K2,K3,K4 from 170 to 240
+- splitted window in front of doors to Main Hall 
+- maxium render distance changed from 4096 to 8192
+
+* experiencing with light color
+----------------------------------------------------------------------------------
+Update 3.3 
+- changed map look
+- fixed few unnoticeable issues
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+written in Notepad using Arial-22
+
+Greetings!
